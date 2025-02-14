@@ -1,5 +1,5 @@
 # Hands-on: a docker container action in action
-
+a
 In this hands-on lab you will create a docker container action that uses input and output parameters. Furthermore, you will create a CI build that tests the action every time y change is made to one of the files.
 
 The lab consists of the following parts:
