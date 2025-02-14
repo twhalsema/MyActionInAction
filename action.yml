@@ -1,5 +1,8 @@
 name: "twhalsema's Action in Action"
 description: 'Greets someone and returns always 42.'
+branding:
+  icon: 'book-open'
+  color: 'purple'
 inputs:
   who-to-greet: # id of input
     description: 'Who to greet'
