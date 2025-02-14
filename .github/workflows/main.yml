@@ -1,5 +1,0 @@
-on: [push]
-uses: twhalsema/MyActionInAction@v1.0.0
-with:
-  # Who to greet
-  who-to-greet: # default is World
